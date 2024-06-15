@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore dataset files
