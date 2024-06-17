@@ -9,3 +9,13 @@ dist/
 *.tmp
 
 # Ignore dataset files
+model/data
+model/models
+birds_dataset/CUB_200_2011
+birds_dataset/cub_icml
+birds_dataset/cvpr2016_cub
+birds_dataset/birds.hdf5
+
+model/oldTestGAN.py
+model/sampleGan1.ipynb
+model/test_gan.py
