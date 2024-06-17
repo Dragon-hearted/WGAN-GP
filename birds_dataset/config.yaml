@@ -1,0 +1,8 @@
+# Birds CUB dataset
+birds_images_path: "birds_dataset/CUB_200_2011/CUB_200_2011/images"
+birds_embedding_path: "birds_dataset/cub_icml"
+birds_text_path: "birds_dataset/cvpr2016_cub/text_c10"
+birds_dataset_path: "birds_dataset/birds.hdf5"
+val_split_path: "birds_dataset/cub_icml/valclasses.txt"
+train_split_path: "birds_dataset/cub_icml/trainclasses.txt"
+test_split_path: "birds_dataset/cub_icml/testclasses.txt"
